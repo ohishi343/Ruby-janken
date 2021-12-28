@@ -28,8 +28,6 @@ def janken
 
 end
 
-
-
 def amh(janken_winner)
   puts "あっちむいて..."
   puts "0(上)1(下)2(左)3(右)"
